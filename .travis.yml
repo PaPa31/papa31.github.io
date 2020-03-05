@@ -37,7 +37,7 @@ notifications:
 deploy:
   provider: pages
   skip_cleanup: true
-  github_token: 0039f5f17a7ce474ad3552ccfb6de05e842711f4
+  github_token: 6fb2661f840ced37bd83d9a2f3422e9ac4fa4f23
   keep_history: true
   on:
     branch: master
